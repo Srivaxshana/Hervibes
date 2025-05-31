@@ -1,0 +1,55 @@
+.menstrual-cycle-page {
+  text-align: center;
+  padding: 40px;
+ background-color:#F687D7 ;
+}
+
+.menstrual-cycle-page h1 {
+ font-size: 86px;
+  margin-bottom: 20px;
+  font-family: Irish Grover;
+}
+
+.menstrual-cycle-page h3 {
+  font-size: 30px;
+  padding-left: 0px;
+  text-align: left;
+
+}
+
+.menstrual-cycle-page h2 {
+  font-size: 50px;
+  margin-bottom: 00px;
+
+}
+.menstrual-cycle-page p {
+    font-size: 70px;
+  margin-bottom: 20px;
+  font-weight: bold;
+  font-family: JejuHallasan;
+  color: rgb(181, 43, 43);
+}
+
+input {
+  padding: 10px;
+  margin-top: 10px;
+  width: 80%;
+  max-width: 300px;
+  border-radius: 5px;
+  border: 1px solid #ddd;
+}
+
+.menstrual-cycle-page button {
+  padding: 10px 20px;
+  background-color:white ;
+  color: black;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  margin-top: 20px;
+  cursor: pointer;
+}
+
+.menstrual-cycle-page button:hover {
+  background-color: #9f8990;
+}

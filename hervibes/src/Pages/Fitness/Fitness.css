@@ -1,0 +1,74 @@
+.fitness-page {
+  text-align: center;
+  padding: 40px;
+  background-color: #F687D7;
+}
+
+.fitness-page h1 {
+  font-size: 86px;
+  margin-bottom: 20px;
+  font-family: Irish Grover;
+
+}
+.flex-container {
+  display: flex;
+  justify-content: space-between;  
+  padding-left: 50px;
+  padding-top: 50px;
+}
+
+.left-image {
+  width: 450px; 
+  height: auto;
+  padding-left: 80px;
+}
+
+.fitness-page p {
+  
+  font-size: 70px;
+  margin-bottom: 20px;
+  font-weight: bold;
+  font-family: JejuHallasan;
+  color: rgb(139, 42, 7);
+
+}
+
+.fitness-page h2 {
+  font-size: 50px;
+  margin-bottom: 00px;
+
+}
+
+.fitness-page h3 {
+  font-size: 30px;
+  margin-bottom: 00px;
+
+}
+
+.workout-options {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 30px;
+}
+
+.workout-options div {
+  background-color: F687D7;
+  color: rgb(5, 5, 5);
+  padding: 20px;
+  border-radius: 10px;
+  cursor: pointer;
+  width: 250px;
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+  
+}
+
+
+
+
+.image-style{
+    width: 250px;
+    height: 280px;
+   
+}

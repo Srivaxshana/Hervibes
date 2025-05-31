@@ -1,0 +1,19 @@
+.footer {
+  background-color: #F687D7;
+  color: rgb(13, 12, 12);
+  text-align: center;
+  padding: 10px 0;
+  font-size: 20px;
+}
+
+.social-links {
+  margin-top: 10px;
+}
+
+.social-icon {
+  margin: 0 10px;
+  font-size: 25px;
+  color: rgb(11, 10, 10);
+  text-decoration: none;
+  align-items:safe;
+}

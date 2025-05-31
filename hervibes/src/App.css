@@ -1,0 +1,43 @@
+.home-page {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.auth-buttons {
+  margin-top: 20px;
+}
+
+.signup-btn {
+  padding: 10px 20px;
+  background-color: #ff5c8f;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.signup-btn:hover {
+  background-color: #e14c78;
+}
+
+.signup-page {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.signup-page input {
+  margin: 10px;
+  padding: 10px;
+  width: 250px;
+}
+
+.signup-page button {
+  padding: 10px 20px;
+  background-color: #ff5c8f;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+}

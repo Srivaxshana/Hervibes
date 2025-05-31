@@ -1,0 +1,63 @@
+.mental-wellness-page {
+  text-align: center;
+  padding: 40px;
+  background-color:#F687D7 ;
+}
+
+.mental-wellness-page h1 {
+  font-size: 86px;
+  margin-bottom: 20px;
+  font-family: Irish Grover;
+}
+
+.mental-wellness-page h3 {
+  font-size: 30px;
+  padding-left: 0px;
+  text-align: left;
+
+}
+
+.mental-wellness-page p {
+    font-size: 70px;
+  margin-bottom: 20px;
+  font-weight: bold;
+  font-family: JejuHallasan;
+  color: rgb(51, 28, 198);
+}
+.right-image {
+  width: 450px; 
+  height: auto;
+  padding-right: 180px;
+}
+
+label,
+scale{
+    font-size: 25px;
+    text-align: left;
+}
+select,
+input {
+  padding: 10px;
+  margin-top: 10px;
+  width: 80%;
+  max-width: 300px;
+  border-radius: 5px;
+  border: 1px solid #ddd;
+  font-size: 20px;;
+}
+
+
+.mental-wellness-page button {
+  padding: 10px 20px;
+  background-color:white ;
+  color: black;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  margin-top: 20px;
+  cursor: pointer;
+}
+
+.mental-wellness-page button:hover {
+  background-color: #9f8990;
+}
