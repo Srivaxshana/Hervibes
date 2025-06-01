@@ -50,7 +50,7 @@ https://www.figma.com/design/DQwhaP0cfutmNCCaqoEmGl/HerVibes?node-id=0-1&t=30g1A
 ---
 Google Drive Link to Screen Recording Video
 
-This is the screen recording video demonstrating how the web app works, showing key features and interactivity. It’s a **4-minute** video that walks through the web app’s main functions.
+This is the screen recording video demonstrating how the web app works, showing key features and interactivity. It’s a **3-minute** video that walks through the web app’s main functions.
 
 https://drive.google.com/drive/folders/1tWuz2gsFiXMnB6b6FDM0RP8U13uR2hRe?usp=sharing
 
